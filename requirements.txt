@@ -1,0 +1,18 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.3.0
+torchdata==0.8.0
+numpy<2
+dgl==2.2.1
+deepchem==2.8.0
+rdkit
+dgllife
+pyrfume
+scikit-multilearn
+pandas
+matplotlib
+pydantic
+pyyaml
+packaging
+setuptools
+Pillow
+streamlit
