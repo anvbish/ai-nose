@@ -1,4 +1,5 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
+--find-links https://data.dgl.ai/wheels/torch-2.3/repo.html
 torch==2.3.0
 torchdata==0.8.0
 numpy<2
