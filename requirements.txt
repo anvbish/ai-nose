@@ -1,9 +1,8 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
---find-links https://data.dgl.ai/wheels/torch-2.3/repo.html
-torch==2.3.0
-torchdata==0.8.0
+torch==2.2.1
+torchdata==0.7.1
 numpy<2
-dgl==2.3.0
+dgl==2.1.0
 deepchem==2.8.0
 rdkit
 dgllife
