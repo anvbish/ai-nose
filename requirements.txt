@@ -3,7 +3,7 @@
 torch==2.3.0
 torchdata==0.8.0
 numpy<2
-dgl==2.2.1
+dgl==2.3.0
 deepchem==2.8.0
 rdkit
 dgllife
